@@ -1,0 +1,15 @@
+name: ag_klicking_ai
+description: AG Klicking AI - AI image, video, voice and story creator.
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.2
+  shared_preferences: ^2.3.3
+  in_app_purchase: ^3.2.1
+  share_plus: ^10.1.4
+flutter:
+  uses-material-design: true
